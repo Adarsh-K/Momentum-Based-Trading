@@ -12,4 +12,4 @@ When Hurst Exp is < 0.5 I'm using the Mean Reverting Strategy.
 
 ## Results
 
-I've managed to get a 6% PnL along with the Sharp ratio of 1.42.
+I've managed to get a 6% Annual Return along with the Sharp ratio of 1.4.
